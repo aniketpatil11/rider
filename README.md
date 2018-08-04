@@ -1,4 +1,5 @@
 # rider
+(A Simple uber clone)
 # Features:
 1. Real Time Location tracking
 2. Easy to use 
