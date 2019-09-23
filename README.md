@@ -5,6 +5,6 @@
 2. Easy to use 
 3. Implemented with AppleMapkit
 
-# Require's firebase file ! 
+# Requires firebase file.
 Just add the file from : 
 https://firebase.google.com/
