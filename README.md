@@ -1,5 +1,5 @@
 # rider
-(A Simple uber clone)
+Taxi booking application 
 # Features:
 1. Real Time Location tracking
 2. Easy to use 
